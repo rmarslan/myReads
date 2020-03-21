@@ -1,0 +1,13 @@
+.ErrorMessage {
+    text-align: center;
+    font-size: 1.6rem;
+    color: crimson;
+    margin-top: 2rem;
+}
+
+.InfoMessage {
+    text-align: center;
+    font-size: 1.6rem;
+    color: greenyellow;
+    margin-top: 2rem;
+}

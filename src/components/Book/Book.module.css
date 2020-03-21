@@ -1,0 +1,30 @@
+.Book {
+    width: 18rem;
+    margin: 1rem 3rem 1rem 0;
+}
+
+.BookCover {
+    width: 18rem;
+    height: 20rem;
+    background-size: cover;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.BookDetail {
+    width: 18rem;
+    padding: 1rem 0;
+}
+
+.BookDetail h5 {
+    font-size: 1.3rem;
+}
+
+.CoverBox {
+    position: relative;
+}
+
+.MenuBox {
+    position: absolute;
+    bottom: -1rem;
+    right: -1rem;
+}
